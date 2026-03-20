@@ -12,28 +12,6 @@ AI Voice Companion is an intelligent conversational assistant that supports both
 - 📈 Training Graphs (Accuracy & Loss)  
 - 📁 Model Saving & Testing  
 
-## 🏗️ Project Structure
-Voice-Enabled-Chatbot/
-│
-├── data/
-│   └── intents.json
-│
-├── model/
-│   ├── chatbot_model.h5
-│   ├── words.pkl
-│   └── classes.pkl
-│
-├── outputs/
-│   ├── training_output.py
-│   ├── accuracy.png
-│   └── loss.png
-│
-├── src/
-│   ├── train_chatbot.py
-│   ├── test_chatbot.py
-│
-├── requirements.txt
-└── README.md
 
 ## ⚙️ Installation
 git clone https://github.com/chandru-python/Voice-Enabled-Chatbot-using-NLP-and-Deep-Learning.git  
