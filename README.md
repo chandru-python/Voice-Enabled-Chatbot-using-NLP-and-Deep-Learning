@@ -46,7 +46,7 @@ Supports:
 - Voice input (if enabled)  
 
 ## 💻 Run GUI
-python src/gui.py  
+python test_chatbot.py  
 
 ## 🔄 Working Flow
 User Input (Text/Voice) → Speech to Text → NLP Processing → Bag-of-Words → Deep Learning Model → Intent Prediction → Response → Text + Voice Output
