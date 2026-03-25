@@ -70,5 +70,5 @@ Python, TensorFlow, Keras, NLTK, NumPy, Scikit-learn, SpeechRecognition, gTTS, T
 This project demonstrates how NLP, Deep Learning, and Speech Technologies can be integrated to build an intelligent chatbot system capable of natural human-computer interaction.
 
 ## 👨‍💻 Author
-Chandru  
+Chandru (Machine Learning Engineer)
 GitHub: https://github.com/chandru-python
